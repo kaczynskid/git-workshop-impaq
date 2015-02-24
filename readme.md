@@ -7,8 +7,9 @@ Cos ten GIT strasznie prosty jest :)
 
 Pozdro dla prowadzacego
 Change3
-NewChange
+Change4
+Check5
 
-Someting else
+Something else
 
 Added new content
