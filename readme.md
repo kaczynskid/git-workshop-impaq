@@ -1,4 +1,4 @@
 This is a repository for Git workshop @IMPAQ.
 
-Change1
+Check1
 Change2
