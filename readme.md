@@ -1,5 +1,7 @@
 This is a repository for Git workshop @IMPAQ. :)
 
+My new Feature!
+
 Check1
 Change
 Change2
