@@ -4,6 +4,8 @@ Check1
 Change2
 
 Change3
-Change4
+NewChange
 
 Someting else
+
+Added new content
